@@ -19,7 +19,7 @@
 ```mysql -u apiuser -p api < api.sql```
 
 ### Make sure you have installed:
-php and php-mysql
+php, php-mysql and php timezone as 'America/Sao_Paulo'
 
 ### In the project's folder, run:
 ```php -S localhost:8000 api.php```
